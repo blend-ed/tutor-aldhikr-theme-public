@@ -11,7 +11,7 @@ config = {
     "defaults": {
         "VERSION": __version__,
         "WELCOME_MESSAGE": "Courses from Al-Dhikr Academy International",
-        "PRIMARY_COLOR": "##275929",
+        "PRIMARY_COLOR": "#275929",
         # Footer links are dictionaries with a "title" and "url"
         # To remove all links, run:
         # tutor config save --set ALDHIKR_FOOTER_NAV_LINKS=[] --set ALDHIKR_FOOTER_LEGAL_LINKS=[]
